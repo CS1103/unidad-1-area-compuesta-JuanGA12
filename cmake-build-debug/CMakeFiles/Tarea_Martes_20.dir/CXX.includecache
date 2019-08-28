@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Circulo.cpp
+Circulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Circulo.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Circulo.h
+Figura.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.h
+iostream
+-
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.cpp
+Figura.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.h
+Rectangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Rectangulo.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Rectangulo.cpp
+Rectangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Rectangulo.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Rectangulo.h
+iostream
+-
+Triangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Triangulo.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Triangulo.cpp
+Triangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Triangulo.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Triangulo.h
+iostream
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/iostream
+Figura.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.h
+
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/main.cpp
+iostream
+-
+Triangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Triangulo.h
+Rectangulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Rectangulo.h
+Circulo.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Circulo.h
+Figura.h
+/Users/Juan Galvez/Desktop/GitHub Desktop/unidad-1-area-compuesta-JuanGA12/Figura.h
+
